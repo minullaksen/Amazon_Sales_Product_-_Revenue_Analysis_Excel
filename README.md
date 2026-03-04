@@ -17,7 +17,7 @@ PivotTables, dynamic dashboards, and structured MIS reports.
 ```
 amazon-sales-analysis/
 │
-├── 📊 amazon_revised_table_Final_work.xlsx       ← Part 1: Product Analysis
+├── 📊 amazon_revised_reviews_&_pricing_analysis.xlsx       ← Part 1: Product Analysis
 │     ├── amazon_revised        (raw data — 1,465 rows)
 │     ├── Table1                (cleaned data — 1,351 products, 27 columns)
 │     ├── Sheet1                (null imputation reference)
