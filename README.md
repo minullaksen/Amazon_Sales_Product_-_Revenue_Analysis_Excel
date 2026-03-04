@@ -278,9 +278,10 @@ These findings are only possible because **both datasets were analysed together*
 
 ## 📊 Dashboard Previews
 
-![Product Analysis Dashboard]([screenshots/product_dashboard.png](https://github.com/soumimukherjee22/Amazon_Sales_Product_-_Revenue_Analysis_Excel/blob/main/Screenshots/Product_Reviews_%26_Pricing_Analysis_Dashboard.png))
-![Revenue & Order Dashboard](screenshots/revenue_dashboard.png)
-![MIS Report](screenshots/mis_report.png)
+![screenshots/product_dashboard.png](https://github.com/soumimukherjee22/Amazon_Sales_Product_-_Revenue_Analysis_Excel/blob/main/Screenshots/Product_Reviews_%26_Pricing_Analysis_Dashboard.png)
+![screenshots/revenue_dashboard.png](https://github.com/soumimukherjee22/Amazon_Sales_Product_-_Revenue_Analysis_Excel/blob/main/Screenshots/Revenue_%26_Order_Performance_Dashboard.png)
+![screenshots/report.png](https://github.com/soumimukherjee22/Amazon_Sales_Product_-_Revenue_Analysis_Excel/blob/main/Screenshots/Product_Reviews_%26_Pricing_Analysis_Report.png)
+![screenshots/report.png](https://github.com/soumimukherjee22/Amazon_Sales_Product_-_Revenue_Analysis_Excel/blob/main/Screenshots/Revenue_%26_Order_Performance_Report.png)
 
 ## 📂 How to Use These Files
 
@@ -308,6 +309,16 @@ This project was built as part of a **Data Analyst / MIS Portfolio** to demonstr
 
 ---
 
+** Author
+
+**Soumi Mukherjee**
+Data Analyst | Reporting analysis | Excel 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style-for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/soumimukherjeeofficial)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soumimukherjee22)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumi.mukherjee2003@gmail.com)
+
+---
 ## 🔖 Tags
 
 `data-analysis` `mis-reporting` `excel` `pivot-tables` `amazon` `sales-analysis`
