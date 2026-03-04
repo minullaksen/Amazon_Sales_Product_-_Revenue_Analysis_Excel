@@ -286,14 +286,6 @@ These findings are only possible because **both datasets were analysed together*
 ![MIS Report](screenshots/mis_report.png)
 ```
 
-**How to take screenshots from Excel:**
-- Open the dashboard sheet → press `Ctrl + Shift + *` to select the used range
-- Copy → Paste Special as Picture, OR use Windows Snipping Tool (`Win + Shift + S`)
-- Save as `product_dashboard.png` and `revenue_dashboard.png`
-- Upload to a `/screenshots` folder in this GitHub repo
-
----
-
 ## 📂 How to Use These Files
 
 1. **Download** both `.xlsx` files from this repository
