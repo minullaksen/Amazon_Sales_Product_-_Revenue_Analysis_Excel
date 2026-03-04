@@ -278,13 +278,9 @@ These findings are only possible because **both datasets were analysed together*
 
 ## 📊 Dashboard Previews
 
-> 📌 Add your dashboard screenshots here after uploading them to a `/screenshots` folder in this repo.
-
-```markdown
-![Product Analysis Dashboard](screenshots/product_dashboard.png)
+![Product Analysis Dashboard]([screenshots/product_dashboard.png](https://github.com/soumimukherjee22/Amazon_Sales_Product_-_Revenue_Analysis_Excel/blob/main/Screenshots/Product_Reviews_%26_Pricing_Analysis_Dashboard.png))
 ![Revenue & Order Dashboard](screenshots/revenue_dashboard.png)
 ![MIS Report](screenshots/mis_report.png)
-```
 
 ## 📂 How to Use These Files
 
