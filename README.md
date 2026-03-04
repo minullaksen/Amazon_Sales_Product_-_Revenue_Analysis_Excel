@@ -311,7 +311,7 @@ This project was built as part of a **Data Analyst / MIS Portfolio** to demonstr
 
 ---
 
-** Author
+## Author
 
 **Soumi Mukherjee**
 Data Analyst | Reporting analysis | Excel 
