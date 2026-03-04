@@ -321,7 +321,3 @@ Data Analyst | Reporting analysis | Excel
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumi.mukherjee2003@gmail.com)
 
 ---
-## 🔖 Tags
-
-`data-analysis` `mis-reporting` `excel` `pivot-tables` `amazon` `sales-analysis`
-`dashboard` `data-cleaning` `kpi` `revenue-analysis` `product-analysis` `portfolio`
